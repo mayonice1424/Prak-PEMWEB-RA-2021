@@ -12,4 +12,7 @@ Link [praktikum minggu 3](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tr
 
 Link [praktikum minggu 4](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/Minggu4)
 
+**Ini Praktikum Minggu 5**
+
+Link [praktikum minggu 5](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/Minggu5)
 
