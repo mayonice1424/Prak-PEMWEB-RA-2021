@@ -1,6 +1,6 @@
 # Prak-PEMWEB-RA-2021
 
-Masukkan nama anda disini dengan format :
+
 Ilham Nofri Yandra - 119140133
 
 **Ini Praktikum Minggu 3**
@@ -12,3 +12,15 @@ Link [praktikum minggu 3](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tr
 
 Link [praktikum minggu 4](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/Minggu4)
 
+**Ini Praktikum Minggu 5**
+
+Link [praktikum minggu 5](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/Minggu5)
+
+**Ini Praktikum Minggu 6**
+
+Link [praktikum minggu 6](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/Minggu6)
+
+
+**Ini Praktikum Minggu 7**
+
+Link [praktikum minggu 7](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/minggu7)
