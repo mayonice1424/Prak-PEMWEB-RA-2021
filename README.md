@@ -27,4 +27,4 @@ Link [praktikum minggu 7](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tr
 
 **Ini Praktikum Minggu 8**
 
-Link [praktikum minggu 9](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/Minggu8)
+Link [praktikum minggu 8](https://github.com/mayonice1424/Prak-PEMWEB-RA-2021/tree/Minggu8)
