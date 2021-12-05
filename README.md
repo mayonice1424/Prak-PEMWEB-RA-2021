@@ -1,9 +1,5 @@
 # Prak-PEMWEB-RA-2021
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b9d9185c87d5dab6bf99cbab87c576ca48e3414d
 Ilham Nofri Yandra - 119140133
 
 **Ini Praktikum Minggu 3**
